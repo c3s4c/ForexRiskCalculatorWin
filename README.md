@@ -8,4 +8,5 @@
 python main.py
 ```
 
-#
+## ویندوز 
+https://github.com/c3s4c/ForexRiskCalculatorWin/releases
